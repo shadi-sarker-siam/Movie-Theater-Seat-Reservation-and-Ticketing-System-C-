@@ -1,0 +1,4 @@
+siam,2,MJ,6,600.00
+minha,3,Roid,12,670.00
+minha,2,MJ,9,600.00
+sinha,4,The Spiderman,1,550.00
