@@ -27,3 +27,10 @@ A console-based C project for movie theaters featuring admin and user authentica
 1. **Compile:** Write in the terminal:
    ```bash
    gcc main.c functions.c -o movieTheaterExecutable
+
+## Notes
+
+- Data is stored in plain `.txt` files (not encrypted).
+- Fully offline and console-based CLI application.
+- Supports a fixed capacity of 20 seats per movie showtime.
+- Designed as a basic movie theater reservation system for educational purposes.
